@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  imgFunc.cpp
+c:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+E:\下載\openCVApp\openCVApp\imgFunc\imgFunc.cpp(75,9): warning C4101: 'c': 未參考的區域變數
+E:\下載\openCVApp\openCVApp\imgFunc\imgFunc.cpp(75,12): warning C4101: 'ch': 未參考的區域變數
+E:\下載\openCVApp\openCVApp\imgFunc\imgFunc.cpp(75,6): warning C4101: 'r': 未參考的區域變數
+E:\下載\openCVApp\openCVApp\imgFunc\imgFunc.cpp(88,27): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+E:\下載\openCVApp\openCVApp\imgFunc\imgFunc.cpp(94,40): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+  imgFunc.vcxproj -> E:\下載\openCVApp\openCVApp\WindowsFormsApp1\bin\x64\Debug\imgFunc.dll

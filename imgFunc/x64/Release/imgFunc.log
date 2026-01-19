@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  dllmain.cpp
+  imgFunc.cpp
+C:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '/imgFunc.cpp')
+  
+C:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '/imgFunc.cpp')
+  
+C:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '/imgFunc.cpp')
+  
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '/imgFunc.cpp')
+  
+     正在建立程式庫 C:\Users\user\source\repos\openCVApp\x64\Release\imgFunc.lib 和物件 C:\Users\user\source\repos\openCVApp\x64\Release\imgFunc.exp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 70 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  imgFunc.vcxproj -> C:\Users\user\source\repos\openCVApp\x64\Release\imgFunc.dll
